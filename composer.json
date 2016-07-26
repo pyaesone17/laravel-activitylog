@@ -20,15 +20,15 @@
         {
             "name": "Sebastian De Deyne",
             "email": "sebastian@spatie.be",
-            "homepage": "https://spatie.be",
+            "homepage": "https://spatie.be", 
             "role": "Developer"
         }
     ],
     "require": {
         "php" : "^5.0",
-        "illuminate/config": "^5.0.*",
-        "illuminate/database": "^5.0.*",
-        "illuminate/support": "^5.0.*",
+        "illuminate/config": "5.0.*",
+        "illuminate/database": "5.0.*",
+        "illuminate/support": "5.0.*",
         "spatie/string": "^2.1"
 
     },
